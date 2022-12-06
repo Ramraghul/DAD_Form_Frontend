@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+body{
+background-color: rgb(236, 230, 230);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -25,7 +29,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #8851ed;
 }
 
 @keyframes App-logo-spin {
